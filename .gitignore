@@ -1,0 +1,35 @@
+# ========================
+# .NET / Backend
+# ========================
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+
+# Rider / IntelliJ
+.idea/
+
+# ========================
+# React / Frontend
+# ========================
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
