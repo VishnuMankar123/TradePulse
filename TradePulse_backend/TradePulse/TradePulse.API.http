@@ -1,0 +1,6 @@
+@TradePulse.API_HostAddress = http://localhost:5287
+
+GET {{TradePulse.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
